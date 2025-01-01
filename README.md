@@ -31,11 +31,11 @@ I'm an indie Gamedev/SoftEngineer/Artist. I use arch btw, still in school (under
 
 #
 
-### 📊 Stats
+<h2 align="center">Hi 👋! I'm Dave
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=dave-eska&show_icons=true&theme=tokyonight)
+###
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<img src ="https://github.com/minustenchan/minustenchan/blob/output/snake.svg" height="200" width="1920" alt="snake"/>
 
 #
 <!--
